@@ -3,7 +3,7 @@
 }
 
 .App-header {
-  background-color: #002b80;
+  background: linear-gradient(to bottom, #2193b0, #6dd5ed);
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -12,6 +12,10 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+body {
+  background: linear-gradient(to bottom, #2193b0 , #6dd5ed);
+}
+
 h2 {
   height: 10px;
   top: 20px;
@@ -104,6 +108,7 @@ section5 {
   height: 2px;
   font-size: small;
   text-align: center;
+  color: black;
 }
 
 p7 {
@@ -121,6 +126,13 @@ p8 {
 }
 
 p9 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: black;
+  text-align: center;
+}
+
+p10 {
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
   color: black;
