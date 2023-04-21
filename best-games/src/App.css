@@ -16,7 +16,7 @@ h2 {
   height: 10px;
   top: 20px;
   position: absolute;
-  text-align: top left;
+  text-align: top;
   font-family: 'Courier New', Courier, monospace;
 }
 
@@ -71,4 +71,58 @@ p4 {
   font-family: 'Courier New', Courier, monospace;
   font-size: large;
   color: black;
+}
+
+section3 {
+  font-family: 'Courier New', Courier, monospace;
+  height: 2px;
+  font-size: small;
+  text-align: center;
+}
+
+section4 {
+  font-family: 'Courier New', Courier, monospace;
+  height: 2px;
+  font-size: small;
+  text-align: center;
+}
+
+p5 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: black;
+}
+
+p6 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: black;
+}
+
+section5 {
+  font-family: 'Courier New', Courier, monospace;
+  height: 2px;
+  font-size: small;
+  text-align: center;
+}
+
+p7 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: black;
+  text-align: center;
+}
+
+p8 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: black;
+  text-align: center;
+}
+
+p9 {
+  font-family: 'Courier New', Courier, monospace;
+  font-size: large;
+  color: black;
+  text-align: center;
 }
